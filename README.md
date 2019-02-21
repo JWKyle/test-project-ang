@@ -1,5 +1,7 @@
 # TestProject
 
+This project is a vanilla Angular app.  It is currently being used as a testing ground to sharpen my angular practice.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
